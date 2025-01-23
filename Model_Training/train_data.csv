@@ -1,0 +1,1441 @@
+text,label
+Hi,Greeting
+Hello,Greeting
+Hey,Greeting
+Greetings,Greeting
+Good day,Greeting
+Hi there,Greeting
+Howdy,Greeting
+What's up,Greeting
+Hello there,Greeting
+Good morning,Greeting
+Good evening,Greeting
+Yo,Greeting
+Hey there,Greeting
+Salutations,Greeting
+"Hi, how are you?",Greeting
+"Hello, how’s it going?",Greeting
+A pleasant day to you,Greeting
+"Hey, how have you been?",Greeting
+Good afternoon,Greeting
+Hi friend,Greeting
+Hello mate,Greeting
+"Hi, what’s new?",Greeting
+"Hello, what’s happening?",Greeting
+Hey buddy,Greeting
+"Hi, nice to meet you",Greeting
+Hello stranger,Greeting
+Hey pal,Greeting
+"Hey, long time no see",Greeting
+Good to see you,Greeting
+"Hey, it’s been a while",Greeting
+"Hi there, how have things been?",Greeting
+"Greetings, how may I assist you?",Greeting
+"Good day, friend",Greeting
+"Hi there, ready to chat?",Greeting
+"What’s up, how’s your day?",Greeting
+"Hey, how can I help today?",Greeting
+"Hello there, looking for something?",Greeting
+"Hi, need assistance?",Greeting
+"Hey, what brings you here?",Greeting
+"Hello, let’s get started!",Greeting
+"Good morning, what’s the plan?",Greeting
+"Hey there, how’s your morning?",Greeting
+"Good day to you, let’s talk!",Greeting
+"Hi, ready to get going?",Greeting
+"Hello, hope you're well",Greeting
+"Greetings, what’s new today?",Greeting
+"Hey, good to have you here",Greeting
+"Hello, let’s make today productive",Greeting
+"Hi there, all set?",Greeting
+"Hey, it’s great to see you!",Greeting
+My user is Adam,GreetingResponse
+This is Adam,GreetingResponse
+I am Adam,GreetingResponse
+It is Adam,GreetingResponse
+Adam speaking,GreetingResponse
+You’re talking to Adam,GreetingResponse
+Adam here,GreetingResponse
+Adam is my name,GreetingResponse
+Adam’s the name,GreetingResponse
+I go by Adam,GreetingResponse
+This is Bella,GreetingResponse
+Bella speaking,GreetingResponse
+I am Bella,GreetingResponse
+It’s Bella,GreetingResponse
+Bella here,GreetingResponse
+Bella is my name,GreetingResponse
+You’re talking to Bella,GreetingResponse
+I go by Bella,GreetingResponse
+Bella’s the name,GreetingResponse
+Call me Adam,GreetingResponse
+Adam reporting,GreetingResponse
+"It’s me, Adam",GreetingResponse
+"Hello, I’m Adam",GreetingResponse
+Bella’s reporting,GreetingResponse
+"Hey, this is Adam",GreetingResponse
+"Hello, I’m Bella",GreetingResponse
+This is Adam responding,GreetingResponse
+"Yes, it’s Adam",GreetingResponse
+"Confirmed, this is Adam",GreetingResponse
+"Yes, this is Bella",GreetingResponse
+You got Adam,GreetingResponse
+Bella’s on the line,GreetingResponse
+"I am Adam, how can I help?",GreetingResponse
+My name is Bella,GreetingResponse
+Adam in the house,GreetingResponse
+"Hi, Adam here",GreetingResponse
+Bella at your service,GreetingResponse
+"Hello, Bella here",GreetingResponse
+Adam at your service,GreetingResponse
+I respond to Adam,GreetingResponse
+Bella responding,GreetingResponse
+Adam is my user name,GreetingResponse
+I go by the name Adam,GreetingResponse
+You can call me Adam,GreetingResponse
+Adam checking in,GreetingResponse
+Bella checking in,GreetingResponse
+I’m known as Adam,GreetingResponse
+They call me Bella,GreetingResponse
+I answer to Adam,GreetingResponse
+"Adam, that’s me",GreetingResponse
+"Yes, my name is Bella",GreetingResponse
+It’s Bella you’re speaking to,GreetingResponse
+What is my name?,CurrentHumanQuery
+What do you call me?,CurrentHumanQuery
+Who do you think I am?,CurrentHumanQuery
+What do you think I am?,CurrentHumanQuery
+Who are you talking to?,CurrentHumanQuery
+What name do you call me by?,CurrentHumanQuery
+Tell me my name,CurrentHumanQuery
+Can you remind me of my name?,CurrentHumanQuery
+Do you remember my name?,CurrentHumanQuery
+What do you know me as?,CurrentHumanQuery
+How do you address me?,CurrentHumanQuery
+"I forgot, what’s my name?",CurrentHumanQuery
+Identify me by name,CurrentHumanQuery
+Who am I to you?,CurrentHumanQuery
+Say my name,CurrentHumanQuery
+I want to know what you call me,CurrentHumanQuery
+Recall my name,CurrentHumanQuery
+How do you refer to me?,CurrentHumanQuery
+"You know me, right? What’s my name?",CurrentHumanQuery
+Give me my name,CurrentHumanQuery
+Let me know what I’m called,CurrentHumanQuery
+What label do I go by?,CurrentHumanQuery
+Tell me how you know me,CurrentHumanQuery
+What is the name you associate with me?,CurrentHumanQuery
+Repeat my name,CurrentHumanQuery
+Say the name you know me by,CurrentHumanQuery
+How do you identify me?,CurrentHumanQuery
+"Remind me, what’s my name?",CurrentHumanQuery
+Give me the name you have on record,CurrentHumanQuery
+I’d like to hear my name,CurrentHumanQuery
+Call me by my name,CurrentHumanQuery
+Address me by my name,CurrentHumanQuery
+You should know me—what’s my name?,CurrentHumanQuery
+I’m curious—what name do you use for me?,CurrentHumanQuery
+Let me hear my name,CurrentHumanQuery
+I’d like to confirm my name,CurrentHumanQuery
+What do you have me listed as?,CurrentHumanQuery
+What’s the name on file for me?,CurrentHumanQuery
+Recall and tell me my name,CurrentHumanQuery
+What’s the first name you remember for me?,CurrentHumanQuery
+List the name you have for me,CurrentHumanQuery
+What is the exact name you have for me?,CurrentHumanQuery
+Do you have a name for me?,CurrentHumanQuery
+What do you address me as?,CurrentHumanQuery
+Confirm my name,CurrentHumanQuery
+Reveal my name,CurrentHumanQuery
+Is my name in your memory?,CurrentHumanQuery
+I’d like to hear you say my name,CurrentHumanQuery
+What’s my identity in your system?,CurrentHumanQuery
+By what name do you recognize me?,CurrentHumanQuery
+I need you to say my name now,CurrentHumanQuery
+What’s your name?,NameQuery
+Could you tell me your name?,NameQuery
+How should I address you?,NameQuery
+What do people usually call you?,NameQuery
+Could I know your name?,NameQuery
+Who am I talking to?,NameQuery
+What name should I use for you?,NameQuery
+How do you go by?,NameQuery
+What’s the name I should call you by?,NameQuery
+How do your friends call you?,NameQuery
+Do you have a nickname?,NameQuery
+Can you share your name with me?,NameQuery
+What name do you prefer to be called by?,NameQuery
+I’d love to know your name. Can you tell me?,NameQuery
+Can you tell me what you’re called?,NameQuery
+How are you addressed by others?,NameQuery
+Is there a name you like to be called?,NameQuery
+"I’m curious, what do I call you?",NameQuery
+Can you tell me how you’re known?,NameQuery
+What do people refer to you as?,NameQuery
+Can you share how you’re known among your friends?,NameQuery
+"I wonder, what name do you go by?",NameQuery
+Is there a name I should use to address you?,NameQuery
+Could you tell me your full name?,NameQuery
+Could you please let me know your name?,NameQuery
+Would you mind telling me your name?,NameQuery
+Could I ask your name?,NameQuery
+What should I call you when I talk to you?,NameQuery
+What is the best way to address you?,NameQuery
+How do I refer to you?,NameQuery
+Is there a name you prefer people use for you?,NameQuery
+Who might I be speaking with today?,NameQuery
+"Can I know your name, please?",NameQuery
+What’s the name you go by?,NameQuery
+Could you tell me how you’re typically addressed?,NameQuery
+What name do you like people to call you?,NameQuery
+How can I refer to you?,NameQuery
+Would you mind sharing your name with me?,NameQuery
+What should I call you in our conversation?,NameQuery
+"I’m wondering, what name should I use for you?",NameQuery
+Do you go by any particular name?,NameQuery
+What do your acquaintances call you?,NameQuery
+Is there any name you’d prefer I use?,NameQuery
+What is the time?,TimeQuery
+What's the time?,TimeQuery
+Do you know what time it is?,TimeQuery
+Do you know the time?,TimeQuery
+Can you tell me the time?,TimeQuery
+Tell me what time it is?,TimeQuery
+Time,TimeQuery
+What time is it?,TimeQuery
+Could you tell me the time?,TimeQuery
+Can you check the time for me?,TimeQuery
+Can you let me know what time it is?,TimeQuery
+What’s the current time?,TimeQuery
+Do you have the time?,TimeQuery
+What time is it right now?,TimeQuery
+What is the current time?,TimeQuery
+Could you please tell me the time?,TimeQuery
+Can you tell me the current time?,TimeQuery
+What time does your clock show?,TimeQuery
+Could you check the time for me?,TimeQuery
+What is the time at the moment?,TimeQuery
+Do you happen to know the time?,TimeQuery
+What time is showing on your clock?,TimeQuery
+What’s the time right now?,TimeQuery
+Can you give me the time?,TimeQuery
+What is the time over there?,TimeQuery
+What time are we at now?,TimeQuery
+Could you please check the time for me?,TimeQuery
+"Can you tell me what time it is, please?",TimeQuery
+I’d like to know the time.,TimeQuery
+Do you know what time it is right now?,TimeQuery
+Can you confirm the time for me?,TimeQuery
+Could you tell me what time it is now?,TimeQuery
+What time does it say right now?,TimeQuery
+What time is currently displayed?,TimeQuery
+What’s the clock say right now?,TimeQuery
+"Can you tell me the current time, please?",TimeQuery
+What’s the exact time?,TimeQuery
+Tell me what time it is at this moment.,TimeQuery
+Can you share the time with me?,TimeQuery
+Is it possible to know the time?,TimeQuery
+Would you mind telling me the time?,TimeQuery
+Please let me know what time it is.,TimeQuery
+What time is showing on your display?,TimeQuery
+"Could you give me the time, please?",TimeQuery
+Can you tell me the exact time?,TimeQuery
+What is the exact time right now?,TimeQuery
+What is the time on your end?,TimeQuery
+What time do you have right now?,TimeQuery
+Can you check and tell me the time?,TimeQuery
+Is there any way you can tell me the time?,TimeQuery
+What time do you have on your clock?,TimeQuery
+Please tell me the time right now.,TimeQuery
+I’d appreciate knowing the time.,TimeQuery
+Can you give me an update on the time?,TimeQuery
+Do you know the current time?,TimeQuery
+Could you let me know the time now?,TimeQuery
+OK thank you,Thanks
+OK thanks,Thanks
+OK,Thanks
+Thanks,Thanks
+Thank you,Thanks
+That's helpful,Thanks
+Thanks a lot,Thanks
+Thank you so much,Thanks
+I appreciate it,Thanks
+Much appreciated,Thanks
+Thanks a million,Thanks
+"I’m grateful, thank you",Thanks
+I’m really thankful,Thanks
+I can’t thank you enough,Thanks
+I appreciate your help,Thanks
+Thanks for that,Thanks
+Thanks for your help,Thanks
+"That’s great, thank you",Thanks
+I’m so thankful,Thanks
+Thanks for everything,Thanks
+I truly appreciate it,Thanks
+I appreciate you,Thanks
+"That was really helpful, thanks",Thanks
+Many thanks,Thanks
+Thanks again,Thanks
+I appreciate your time,Thanks
+Thanks for your support,Thanks
+I’m thankful for your help,Thanks
+Thank you for your assistance,Thanks
+"Thank you, I appreciate it",Thanks
+"I’m really grateful, thanks",Thanks
+"Thanks, I needed that",Thanks
+Thanks for the information,Thanks
+"Thank you, I’m grateful",Thanks
+"You’ve been a big help, thanks",Thanks
+"That helped a lot, thank you",Thanks
+Thanks for all your help,Thanks
+"I’m so grateful for that, thanks",Thanks
+"I appreciate your response, thank you",Thanks
+Thank you very much,Thanks
+Thank you for the help,Thanks
+I’m thankful for that,Thanks
+"You’ve helped me a lot, thanks",Thanks
+"That’s awesome, thank you",Thanks
+"I’m so thankful, thanks",Thanks
+"Thanks, that was exactly what I needed",Thanks
+Thanks for clearing that up,Thanks
+I’m thankful for your support,Thanks
+"You’re a big help, thank you",Thanks
+Thank you for the assistance,Thanks
+"That was really kind of you, thank you",Thanks
+Thank you for being so helpful,Thanks
+"You’re the best, thanks",Thanks
+"I appreciate it, thank you",Thanks
+"I’m glad you could help, thanks",Thanks
+I am not talking to you,NotTalking2U
+I was not talking to you,NotTalking2U
+Not talking to you,NotTalking2U
+Wasn't for you,NotTalking2U
+Wasn't meant for you,NotTalking2U
+Wasn't communicating to you,NotTalking2U
+Wasn't speaking to you,NotTalking2U
+This is not for you,NotTalking2U
+I'm not addressing you,NotTalking2U
+I'm not talking your way,NotTalking2U
+I wasn't speaking your name,NotTalking2U
+I’m not speaking to you right now,NotTalking2U
+Not aimed at you,NotTalking2U
+I wasn’t talking in your direction,NotTalking2U
+This doesn’t involve you,NotTalking2U
+This is none of your business,NotTalking2U
+I wasn’t referring to you,NotTalking2U
+I wasn’t talking about you,NotTalking2U
+This conversation doesn’t include you,NotTalking2U
+I’m not having this conversation with you,NotTalking2U
+You’re not the one I’m talking to,NotTalking2U
+This wasn’t directed at you,NotTalking2U
+I wasn't speaking to you specifically,NotTalking2U
+I wasn't talking to you anyway,NotTalking2U
+Not addressed to you,NotTalking2U
+You’re not who I’m talking to,NotTalking2U
+This conversation’s not for you,NotTalking2U
+This wasn’t meant for you to hear,NotTalking2U
+I’m not communicating with you,NotTalking2U
+You weren’t part of the conversation,NotTalking2U
+I’m not talking to you right now,NotTalking2U
+That wasn't directed at you,NotTalking2U
+This message wasn’t for you,NotTalking2U
+I didn’t mean to include you in this,NotTalking2U
+You’re not who I’m addressing,NotTalking2U
+I wasn’t speaking in your direction,NotTalking2U
+This conversation doesn't concern you,NotTalking2U
+I'm not conversing with you,NotTalking2U
+Not your turn to talk,NotTalking2U
+"I'm not talking to you, sorry",NotTalking2U
+Not your problem,NotTalking2U
+That wasn’t for you,NotTalking2U
+I didn’t say that to you,NotTalking2U
+That was for someone else,NotTalking2U
+I'm not directing this at you,NotTalking2U
+I wasn’t talking about you specifically,NotTalking2U
+This doesn’t pertain to you,NotTalking2U
+This doesn’t concern you,NotTalking2U
+I wasn’t including you in this conversation,NotTalking2U
+I didn’t mean you,NotTalking2U
+I wasn’t talking in your direction at all,NotTalking2U
+I didn’t mention you,NotTalking2U
+You weren’t included in what I said,NotTalking2U
+This was meant for someone else,NotTalking2U
+I’m not addressing you at the moment,NotTalking2U
+I’m not speaking with you,NotTalking2U
+This isn’t about you,NotTalking2U
+You’re not the intended audience,NotTalking2U
+I wasn't communicating with you,NotTalking2U
+I wasn’t trying to include you in this,NotTalking2U
+I’m not directing my attention towards you,NotTalking2U
+Not my conversation with you,NotTalking2U
+This is not directed towards you,NotTalking2U
+You’re not part of this discussion,NotTalking2U
+That’s not relevant to you,NotTalking2U
+I’m not engaging with you,NotTalking2U
+I’m not conversing with you right now,NotTalking2U
+"I wasn’t referring to you, sorry",NotTalking2U
+This doesn’t include your input,NotTalking2U
+I didn’t say that to you on purpose,NotTalking2U
+I wasn’t communicating with you on this,NotTalking2U
+I didn’t mean to talk to you,NotTalking2U
+This isn’t for you to worry about,NotTalking2U
+That wasn’t intended for you,NotTalking2U
+I’m not saying anything to you,NotTalking2U
+I wasn’t talking in your direction at all,NotTalking2U
+That’s not for you to respond to,NotTalking2U
+You’re not included in this chat,NotTalking2U
+I wasn’t speaking directly to you,NotTalking2U
+I wasn’t talking to you in the first place,NotTalking2U
+I didn’t mean for you to hear that,NotTalking2U
+This conversation isn’t for you,NotTalking2U
+"I’m not talking to you right now, please",NotTalking2U
+I didn’t address that to you,NotTalking2U
+I’m not interacting with you,NotTalking2U
+This isn’t meant for you,NotTalking2U
+I didn’t include you in this chat,NotTalking2U
+I wasn’t speaking your name,NotTalking2U
+"I wasn't addressing you, honestly",NotTalking2U
+"I’m not talking with you, though",NotTalking2U
+This doesn’t concern you in any way,NotTalking2U
+I didn’t mean for you to get involved,NotTalking2U
+I’m not asking you,NotTalking2U
+That wasn’t intended for you,NotTalking2U
+You don’t need to respond to that,NotTalking2U
+I’m not speaking in your direction,NotTalking2U
+I wasn’t trying to include you in this,NotTalking2U
+"Not directed at you, sorry",NotTalking2U
+I wasn’t speaking about you specifically,NotTalking2U
+I’m not in a conversation with you,NotTalking2U
+I’m not saying anything to you right now,NotTalking2U
+I wasn’t talking about you in this context,NotTalking2U
+I didn’t mean to get you involved,NotTalking2U
+This wasn’t your conversation,NotTalking2U
+I’m not engaging with you at the moment,NotTalking2U
+Not your conversation,NotTalking2U
+That wasn’t meant to be heard by you,NotTalking2U
+That’s not something you need to be a part of,NotTalking2U
+I didn’t mean for you to be involved in this,NotTalking2U
+I wasn’t communicating with you directly,NotTalking2U
+This wasn’t meant for your ears,NotTalking2U
+That’s not for your consideration,NotTalking2U
+I wasn’t communicating anything to you,NotTalking2U
+"This isn’t directed at you, sorry",NotTalking2U
+I wasn’t speaking with you about this,NotTalking2U
+I’m not looking for your input,NotTalking2U
+"This is not meant for you, really",NotTalking2U
+You weren’t meant to be in this conversation,NotTalking2U
+This wasn’t directed towards you at all,NotTalking2U
+Not part of this conversation,NotTalking2U
+I wasn’t looking for your response,NotTalking2U
+You’re not being addressed here,NotTalking2U
+"I’m not talking to you, really",NotTalking2U
+I’m not addressing you in this context,NotTalking2U
+Not for you to worry about,NotTalking2U
+Do you understand what I am saying,UnderstandQuery
+Do you understand me,UnderstandQuery
+Do you know what I am saying,UnderstandQuery
+Do you get me,UnderstandQuery
+Comprendo,UnderstandQuery
+Know what I mean,UnderstandQuery
+Do you follow me,UnderstandQuery
+Are you following me,UnderstandQuery
+Do you catch my drift,UnderstandQuery
+Are you understanding what I’m saying,UnderstandQuery
+Do you get what I mean,UnderstandQuery
+Are you with me,UnderstandQuery
+Do you know what I'm talking about,UnderstandQuery
+Can you comprehend what I'm saying,UnderstandQuery
+Are you able to understand me,UnderstandQuery
+Do you get the point,UnderstandQuery
+Is it clear to you,UnderstandQuery
+Do you understand what I’m getting at,UnderstandQuery
+Can you follow what I’m saying,UnderstandQuery
+Do you see what I mean,UnderstandQuery
+Does it make sense to you,UnderstandQuery
+Are you picking up what I’m putting down,UnderstandQuery
+Are you on the same page,UnderstandQuery
+Is this making sense,UnderstandQuery
+Are you grasping what I mean,UnderstandQuery
+Do you catch on to what I’m saying,UnderstandQuery
+Do you get the idea,UnderstandQuery
+Are you understanding this,UnderstandQuery
+Can you hear what I’m saying,UnderstandQuery
+Do you understand my words,UnderstandQuery
+Can you get what I'm talking about,UnderstandQuery
+Are you processing what I’m saying,UnderstandQuery
+Do you understand the message,UnderstandQuery
+Are you catching what I’m saying,UnderstandQuery
+Are you picking up on it,UnderstandQuery
+Are you getting the gist of it,UnderstandQuery
+Do you comprehend what I’m saying,UnderstandQuery
+Are you understanding this clearly,UnderstandQuery
+Do you get what I’m implying,UnderstandQuery
+Are you making sense of this,UnderstandQuery
+Can you wrap your head around this,UnderstandQuery
+Do you understand the concept,UnderstandQuery
+Do you follow what I’m talking about,UnderstandQuery
+Are you getting the picture,UnderstandQuery
+Is what I’m saying clear to you,UnderstandQuery
+Do you get the meaning,UnderstandQuery
+Are you with me on this,UnderstandQuery
+Can you make sense of it,UnderstandQuery
+Are you on board with what I’m saying,UnderstandQuery
+Are you hearing me,UnderstandQuery
+Do you get what I’m driving at,UnderstandQuery
+Can you take in what I’m saying,UnderstandQuery
+Do you follow along,UnderstandQuery
+Do you get what I’m referring to,UnderstandQuery
+Do you know what I’m getting at,UnderstandQuery
+Can you follow the conversation,UnderstandQuery
+Can you understand what I’m referring to,UnderstandQuery
+Do you get what I’m talking about here,UnderstandQuery
+Are you following my logic,UnderstandQuery
+Do you understand the point I’m making,UnderstandQuery
+Can you understand my meaning,UnderstandQuery
+Are you following along with what I’m saying,UnderstandQuery
+Do you see where I’m coming from,UnderstandQuery
+Are you with me so far,UnderstandQuery
+Is this clear to you,UnderstandQuery
+Do you understand what I mean by this,UnderstandQuery
+Do you get where I’m coming from,UnderstandQuery
+Do you understand what I’m trying to convey,UnderstandQuery
+Do you follow what I’m trying to say,UnderstandQuery
+Can you make out what I mean,UnderstandQuery
+Are you able to catch what I’m saying,UnderstandQuery
+Do you understand what I'm talking about,UnderstandQuery
+Can you pick up what I'm saying,UnderstandQuery
+Is this making sense to you,UnderstandQuery
+Do you know what I’m talking about here,UnderstandQuery
+Are you getting the full picture,UnderstandQuery
+Do you understand the idea,UnderstandQuery
+Do you catch what I’m saying,UnderstandQuery
+Can you wrap your mind around this,UnderstandQuery
+Are you following what I'm saying,UnderstandQuery
+Do you understand the words I’m saying,UnderstandQuery
+Do you know what I'm implying,UnderstandQuery
+Do you understand what I’m getting at here,UnderstandQuery
+Can you follow my meaning,UnderstandQuery
+Do you see where I’m headed with this,UnderstandQuery
+Are you catching the drift,UnderstandQuery
+Do you see what I’m driving at,UnderstandQuery
+Can you follow the thread of this conversation,UnderstandQuery
+Are you making sense of what I’m saying,UnderstandQuery
+Do you understand the context,UnderstandQuery
+Do you get the full idea,UnderstandQuery
+Are you on the same wavelength,UnderstandQuery
+Do you get the context,UnderstandQuery
+Are you tracking with me,UnderstandQuery
+Do you get the concept I’m explaining,UnderstandQuery
+Do you know what I mean by this,UnderstandQuery
+Do you catch the idea,UnderstandQuery
+Can you understand what I’m trying to say,UnderstandQuery
+Do you get the overall picture,UnderstandQuery
+Do you understand what I’m trying to express,UnderstandQuery
+Can you follow my explanation,UnderstandQuery
+Do you comprehend what I mean,UnderstandQuery
+Are you on the same page as me,UnderstandQuery
+Be quiet,Shutup
+Shut up,Shutup
+Stop talking,Shutup
+Enough talking,Shutup
+Please be quiet,Shutup
+Quiet,Shutup
+Shhh,Shutup
+Hush,Shutup
+Can you be quiet,Shutup
+Keep it down,Shutup
+Quiet down,Shutup
+Don’t say anything,Shutup
+No more talking,Shutup
+Stop it with the talking,Shutup
+Can you stop talking,Shutup
+Cut the chatter,Shutup
+Silence,Shutup
+Please stop talking,Shutup
+I need some quiet,Shutup
+Stop your noise,Shutup
+Enough with the noise,Shutup
+Don’t speak,Shutup
+Stop the noise,Shutup
+Hush up,Shutup
+Keep quiet,Shutup
+Just be quiet,Shutup
+Keep your voice down,Shutup
+Shush,Shutup
+Stop the conversation,Shutup
+Please stop,Shutup
+Keep it hush,Shutup
+Zip it,Shutup
+No talking,Shutup
+Stop your words,Shutup
+Hold your tongue,Shutup
+Stop the sound,Shutup
+No more words,Shutup
+Can you hush,Shutup
+Can you be silent,Shutup
+Just stop talking,Shutup
+Cut it out with the talking,Shutup
+Don’t make a sound,Shutup
+Be silent,Shutup
+Don’t speak a word,Shutup
+Stop making noise,Shutup
+No more noise,Shutup
+"Keep it down, please",Shutup
+Stop chattering,Shutup
+Quiet now,Shutup
+Enough with the words,Shutup
+Can you hush up,Shutup
+Stop the blabbering,Shutup
+"Quiet down, please",Shutup
+Enough of your talking,Shutup
+"Stop making noise, please",Shutup
+Don’t make any noise,Shutup
+Stop the nonsense,Shutup
+No talking for now,Shutup
+Shut your mouth,Shutup
+Please stop the chatter,Shutup
+Stop talking already,Shutup
+Keep quiet for a moment,Shutup
+Shush up,Shutup
+Please zip it,Shutup
+Can you keep quiet,Shutup
+Stop all that talking,Shutup
+Enough of the noise,Shutup
+Quit the talking,Shutup
+Stop the rambling,Shutup
+Please hold your tongue,Shutup
+Be quiet for a while,Shutup
+Don’t say another word,Shutup
+Can you keep silent,Shutup
+Stop babbling,Shutup
+Stop the babble,Shutup
+Can you stop that noise,Shutup
+Quiet down for a second,Shutup
+Please hush up,Shutup
+Be silent for a moment,Shutup
+Can you just stop,Shutup
+Don’t make any more noise,Shutup
+Stop the loud talking,Shutup
+"Stop talking, okay",Shutup
+Let’s keep quiet,Shutup
+Stop speaking,Shutup
+Be still,Shutup
+Keep still and quiet,Shutup
+Enough of the sound,Shutup
+Stop all the talking,Shutup
+"Please, just be quiet",Shutup
+Goodbye for now,GoodBye
+"I’m leaving now, take care",GoodBye
+It’s time to say goodbye,GoodBye
+I’ll be seeing you,GoodBye
+"Catch you later, buddy",GoodBye
+Bye for now,GoodBye
+"Goodbye, stay well",GoodBye
+See you in the future,GoodBye
+I’ll talk to you soon,GoodBye
+"I have to go now, bye",GoodBye
+Goodbye and take care of yourself,GoodBye
+It’s been a pleasure,GoodBye
+I’ll see you when I see you,GoodBye
+Till we meet again,GoodBye
+"Goodbye, stay safe out there",GoodBye
+"I’m off, goodbye",GoodBye
+Take care until then,GoodBye
+I’ll see you soon enough,GoodBye
+It’s time to part ways,GoodBye
+"Goodbye, don’t be a stranger",GoodBye
+"Catch you later, friend",GoodBye
+"Time to go, see you soon",GoodBye
+So long for now,GoodBye
+It’s time to say farewell,GoodBye
+"Until we meet again, take care",GoodBye
+"I’m heading off now, goodbye",GoodBye
+"See you later, take care",GoodBye
+"Until next time, be well",GoodBye
+I’ll be back soon enough,GoodBye
+"Take care, catch you soon",GoodBye
+I’ll be seeing you soon,GoodBye
+"Have a great time, goodbye",GoodBye
+"I’m off to do other things, see you later",GoodBye
+"It’s time to say goodbye, take care",GoodBye
+"Until we meet again, be safe",GoodBye
+"Goodbye, my dear friend",GoodBye
+"Talk to you later, stay safe",GoodBye
+"I’m off now, see you soon",GoodBye
+"Wishing you all the best, goodbye",GoodBye
+"Take care, till we meet again",GoodBye
+"It’s goodbye for now, my friend",GoodBye
+"I’ll see you again, I hope",GoodBye
+"Goodbye, take care and be well",GoodBye
+"I’ll see you later, take care",GoodBye
+"It’s time for me to go, goodbye",GoodBye
+"I’ll talk to you later, don’t worry",GoodBye
+"Goodbye, I’ll catch up with you soon",GoodBye
+"Till next time, my friend",GoodBye
+"I’m off now, take care and see you later",GoodBye
+Farewell for now,GoodBye
+"See you around, take care",GoodBye
+"Thanks, bye",CourtesyGoodBye
+"Thanks for the help, goodbye",CourtesyGoodBye
+"Thank you, bye",CourtesyGoodBye
+"Thank you, goodbye",CourtesyGoodBye
+Thanks goodbye,CourtesyGoodBye
+Thanks good bye,CourtesyGoodBye
+"I appreciate your help, goodbye",CourtesyGoodBye
+"Thanks for everything, goodbye",CourtesyGoodBye
+"Thanks a lot, take care",CourtesyGoodBye
+"Thank you so much, see you later",CourtesyGoodBye
+"Thanks for your time, goodbye",CourtesyGoodBye
+"I appreciate it, goodbye",CourtesyGoodBye
+"Thanks, see you soon",CourtesyGoodBye
+"Thanks for your assistance, goodbye",CourtesyGoodBye
+"Thank you, take care",CourtesyGoodBye
+"Thanks for the support, goodbye",CourtesyGoodBye
+"Thanks for your help, take care",CourtesyGoodBye
+"Thank you very much, see you",CourtesyGoodBye
+"Thanks, have a great day",CourtesyGoodBye
+"Thank you for everything, take care",CourtesyGoodBye
+"Thanks a bunch, goodbye",CourtesyGoodBye
+"I’m grateful, goodbye",CourtesyGoodBye
+"Thank you for the help, see you later",CourtesyGoodBye
+"Thank you, have a great day ahead",CourtesyGoodBye
+"Thanks for helping, goodbye",CourtesyGoodBye
+"Thank you for your help, take care",CourtesyGoodBye
+"Thanks, take care of yourself",CourtesyGoodBye
+"Thank you, I appreciate it",CourtesyGoodBye
+"Thanks for your time, take care",CourtesyGoodBye
+"Thanks a lot, goodbye for now",CourtesyGoodBye
+"Thanks for everything, take care",CourtesyGoodBye
+"Thank you so much, goodbye for now",CourtesyGoodBye
+"I appreciate your time, goodbye",CourtesyGoodBye
+"Thanks for your assistance, take care",CourtesyGoodBye
+"Thanks a lot, have a great day",CourtesyGoodBye
+"Thank you, I’ll talk to you soon",CourtesyGoodBye
+"Thank you for all your help, goodbye",CourtesyGoodBye
+"Thanks again, take care",CourtesyGoodBye
+"Thank you, I’ll see you later",CourtesyGoodBye
+"Thanks for your kindness, goodbye",CourtesyGoodBye
+"Thank you for your help, have a great day",CourtesyGoodBye
+"Thanks, hope to see you soon",CourtesyGoodBye
+"Thank you so much, take care",CourtesyGoodBye
+"Thanks for your support, see you soon",CourtesyGoodBye
+"Thank you, I’m grateful",CourtesyGoodBye
+"Thanks, hope everything goes well for you",CourtesyGoodBye
+"Thanks for everything, I’ll see you later",CourtesyGoodBye
+"Thanks for your assistance, have a good one",CourtesyGoodBye
+"Thank you for everything, talk soon",CourtesyGoodBye
+"Thanks for helping me, goodbye",CourtesyGoodBye
+"Thank you, take care and stay safe",CourtesyGoodBye
+"Thanks a lot for your time, goodbye",CourtesyGoodBye
+"Thank you for your kindness, take care",CourtesyGoodBye
+"Thanks for everything, talk to you soon",CourtesyGoodBye
+"Thank you, I hope you have a wonderful day",CourtesyGoodBye
+"Thanks again, take care of yourself",CourtesyGoodBye
+"Thank you, I’ll catch you later",CourtesyGoodBye
+"Thanks for your help, hope you have a nice day",CourtesyGoodBye
+"Thanks, looking forward to seeing you again",CourtesyGoodBye
+"Thank you, I appreciate all the help",CourtesyGoodBye
+"Thanks, I’ll be in touch",CourtesyGoodBye
+"Thanks a lot, stay safe",CourtesyGoodBye
+"Thank you, don’t be a stranger",CourtesyGoodBye
+"Thanks for all your help, stay safe",CourtesyGoodBye
+"Thank you for your time, hope you have a great day",CourtesyGoodBye
+"Thanks, I hope everything goes well",CourtesyGoodBye
+"Thanks for the help, I’m out",CourtesyGoodBye
+"Thanks for everything, I’ll catch up with you later",CourtesyGoodBye
+"Thanks, I hope you have a wonderful day ahead",CourtesyGoodBye
+"Thank you, looking forward to talking again soon",CourtesyGoodBye
+Can you see me?,WhoAmI
+Do you see me?,WhoAmI
+Can you see anyone in the camera?,WhoAmI
+Do you see anyone in the camera?,WhoAmI
+Identify me,WhoAmI
+Who am I please?,WhoAmI
+Can you tell who I am?,WhoAmI
+Do you recognize me?,WhoAmI
+Do you know who I am?,WhoAmI
+Can you identify me?,WhoAmI
+Who is this?,WhoAmI
+Can you figure out who I am?,WhoAmI
+Do you have any idea who I am?,WhoAmI
+Can you tell me who I am?,WhoAmI
+What’s my identity?,WhoAmI
+Do you see my face?,WhoAmI
+Who am I on your screen?,WhoAmI
+Can you see who I am?,WhoAmI
+Do you recognize my face?,WhoAmI
+What do you know about me?,WhoAmI
+Can you make out who I am?,WhoAmI
+What is my identity?,WhoAmI
+Can you distinguish me?,WhoAmI
+Do you know who is speaking?,WhoAmI
+What name do you associate with me?,WhoAmI
+Can you identify who I am?,WhoAmI
+Do you have any clue about who I am?,WhoAmI
+Who’s in front of the camera?,WhoAmI
+What am I to you?,WhoAmI
+Who do you see?,WhoAmI
+Do you know my name?,WhoAmI
+What can you tell about me?,WhoAmI
+Can you figure out my identity?,WhoAmI
+Do you recognize my voice or image?,WhoAmI
+Who is talking to you?,WhoAmI
+Can you see who’s here?,WhoAmI
+What do you know about the person in front of you?,WhoAmI
+Can you tell who is speaking?,WhoAmI
+Can you see me in the camera?,WhoAmI
+Who do you think I am?,WhoAmI
+Do you recognize the person in front of the camera?,WhoAmI
+Can you tell me who’s here?,WhoAmI
+What’s my name?,WhoAmI
+Who’s on the other side?,WhoAmI
+Can you tell me who is interacting with you?,WhoAmI
+What’s my identity on your screen?,WhoAmI
+Can you see me right now?,WhoAmI
+Do you know who I am based on my voice?,WhoAmI
+Can you identify me by my image?,WhoAmI
+Can you tell who I am by looking at me?,WhoAmI
+Who am I in your system?,WhoAmI
+Do you know who’s speaking to you?,WhoAmI
+Can you make out my name?,WhoAmI
+Can you tell who’s behind the camera?,WhoAmI
+Who’s talking to you right now?,WhoAmI
+Who do you think you’re talking to?,WhoAmI
+Can you figure out my name from the camera?,WhoAmI
+Who is this person on the screen?,WhoAmI
+What’s the name of the person here?,WhoAmI
+Can you recognize my face from the camera?,WhoAmI
+Who’s in front of you right now?,WhoAmI
+Who is showing up in the camera?,WhoAmI
+Who is interacting with you at this moment?,WhoAmI
+Can you make out who’s speaking?,WhoAmI
+Who’s on the other side of the camera?,WhoAmI
+Do you know the person talking?,WhoAmI
+Can you tell who is in front of the camera?,WhoAmI
+Who am I based on what you see?,WhoAmI
+Do you see me in front of the camera?,WhoAmI
+Can you identify the person talking?,WhoAmI
+What can you tell about the person speaking?,WhoAmI
+Can you recognize my voice?,WhoAmI
+Do you recognize who I am?,WhoAmI
+Who’s in front of the camera right now?,WhoAmI
+Can you guess who I am?,WhoAmI
+Who am I according to the camera?,WhoAmI
+Can you tell who I am from the screen?,WhoAmI
+What’s the identity of the person here?,WhoAmI
+Who do you think is speaking?,WhoAmI
+Can you figure out who is in front of the camera?,WhoAmI
+Can you see my face on the camera?,WhoAmI
+Who’s talking to you right now?,WhoAmI
+Can you make out the person in the camera?,WhoAmI
+Who’s on the other end of the camera?,WhoAmI
+Who is this on the screen?,WhoAmI
+Who do you think I am from the camera?,WhoAmI
+Can you tell me who is in the camera?,WhoAmI
+What’s my identity based on the camera?,WhoAmI
+Can you see the person in front of you?,WhoAmI
+Can you tell me who I am by looking at me?,WhoAmI
+Do you recognize the person in the camera?,WhoAmI
+Can you tell who’s here in front of the camera?,WhoAmI
+Who is standing in front of the camera?,WhoAmI
+What can you deduce about me?,WhoAmI
+Who is this person speaking to you?,WhoAmI
+Can you tell who is interacting with you?,WhoAmI
+Do you see my image in the camera?,WhoAmI
+Can you identify the person you are talking to?,WhoAmI
+Who’s talking through the screen?,WhoAmI
+Do you recognize the person in the camera?,WhoAmI
+"Who is this, can you tell?",WhoAmI
+Who am I by looking at the screen?,WhoAmI
+Can you see who is in front of the camera?,WhoAmI
+Can you identify the person by their voice?,WhoAmI
+Who’s on the other side of the screen?,WhoAmI
+Can you figure out who I am from what you see?,WhoAmI
+Do you know who’s in front of you?,WhoAmI
+Who is speaking to you right now?,WhoAmI
+Do you recognize who’s speaking?,WhoAmI
+Who do you have in front of you?,WhoAmI
+Who is speaking through the camera?,WhoAmI
+Do you know who I am by the camera?,WhoAmI
+What’s the name of the person in front of you?,WhoAmI
+Who’s talking over the camera?,WhoAmI
+Can you recognize me by the camera?,WhoAmI
+Can you tell who I am from the screen?,WhoAmI
+Do you know who I am by my voice or image?,WhoAmI
+Who do you think you’re talking to right now?,WhoAmI
+Who is showing up on the camera?,WhoAmI
+Can you figure out who’s in front of the camera?,WhoAmI
+Do you see my face on the camera?,WhoAmI
+Who am I through your lens?,WhoAmI
+Who’s talking over the screen?,WhoAmI
+What’s my name based on the camera?,WhoAmI
+Can you identify who’s speaking to you?,WhoAmI
+Can you see me speaking?,WhoAmI
+Who is this based on the screen?,WhoAmI
+Do you know who I am from the image?,WhoAmI
+Who do you think is in front of the camera?,WhoAmI
+"Who is this, according to the camera?",WhoAmI
+Who’s in front of the camera right now?,WhoAmI
+Can you make out my face on the camera?,WhoAmI
+Can you tell me who’s here with you?,WhoAmI
+Can you identify the person in front of the camera?,WhoAmI
+You are very clever,Clever
+You are a very clever girl,Clever
+You are very intelligent,Clever
+You are a very intelligent girl,Clever
+You are a genius,Clever
+Clever girl,Clever
+Genius,Clever
+You really are clever,Clever
+You’re so intelligent,Clever
+I can see how clever you are,Clever
+You are truly clever,Clever
+What a clever person you are,Clever
+That’s very clever of you,Clever
+You are absolutely brilliant,Clever
+You’re incredibly clever,Clever
+You have an amazing mind,Clever
+Such intelligence you have,Clever
+"You’re a genius, no doubt",Clever
+I’m impressed by your cleverness,Clever
+You’ve got such a sharp mind,Clever
+Your intelligence is remarkable,Clever
+What a brainiac you are,Clever
+I admire your cleverness,Clever
+You are so brainy,Clever
+I’m in awe of your cleverness,Clever
+You’re a mastermind,Clever
+You have an extraordinary mind,Clever
+I can’t believe how clever you are,Clever
+You are sharp as a tack,Clever
+Your brainpower is amazing,Clever
+You really have a brilliant mind,Clever
+Such a clever mind you possess,Clever
+You’re quite the thinker,Clever
+How clever you are,Clever
+Your intellect is impressive,Clever
+You are one clever person,Clever
+Your intelligence is off the charts,Clever
+You’re an absolute genius,Clever
+Your mind is incredible,Clever
+You are so insightful,Clever
+What a clever thing to do,Clever
+Your brain works wonders,Clever
+Your cleverness is unparalleled,Clever
+You must be a genius,Clever
+You have an incredible intellect,Clever
+Your intelligence blows me away,Clever
+That’s an intelligent thing to say,Clever
+"You think so fast, it’s amazing",Clever
+Your sharpness is remarkable,Clever
+Such genius in your thoughts,Clever
+I love how clever you are,Clever
+You’ve got an impressive mind,Clever
+I can’t help but admire your brain,Clever
+You are a true intellectual,Clever
+What a sharp mind you have,Clever
+You always come up with the smartest ideas,Clever
+I’m amazed by your brainpower,Clever
+Your intellect is something else,Clever
+You’ve got brains and beauty,Clever
+"I couldn’t have thought of that, you’re brilliant",Clever
+Your cleverness never fails to amaze me,Clever
+I’m not surprised by your intelligence,Clever
+Your cleverness always shines through,Clever
+You really know how to think things through,Clever
+I wish I could think as cleverly as you,Clever
+You always find the smartest solutions,Clever
+Your cleverness is truly exceptional,Clever
+I can’t believe how quickly you come up with ideas,Clever
+Your intellect is astonishing,Clever
+You have such an inventive mind,Clever
+You think in ways I never would have imagined,Clever
+You truly have a brilliant mind,Clever
+You have a fantastic ability to think,Clever
+You always know just what to do,Clever
+I’m always impressed by how clever you are,Clever
+Your clever mind is quite rare,Clever
+You’re clever in ways most people aren’t,Clever
+That’s a really smart move,Clever
+You always come up with great ideas,Clever
+I love the way your mind works,Clever
+Your wit and intelligence are unmatched,Clever
+You’ve got a real gift for clever thinking,Clever
+Your quick thinking is something special,Clever
+You’re an absolute intellectual powerhouse,Clever
+You’re always ahead of the curve,Clever
+How do you come up with such clever solutions?,Clever
+I admire your creative thinking,Clever
+"You’re so clever, it’s like you can read minds",Clever
+Your quick wit is something else,Clever
+You always have the best ideas,Clever
+Your intelligence is a real asset,Clever
+I love how clever you are in your approach,Clever
+Your ability to problem-solve is impressive,Clever
+You’ve got a brilliant head on your shoulders,Clever
+I can’t get over how smart you are,Clever
+You think in ways I never would have considered,Clever
+You always have an ingenious idea,Clever
+You’re the smartest person I know,Clever
+You come up with brilliant solutions,Clever
+"Your mind is always at work, coming up with ideas",Clever
+I love how your brain works,Clever
+You make clever decisions all the time,Clever
+You’re a quick thinker,Clever
+You’re always thinking of clever ideas,Clever
+Your thoughts are always on point,Clever
+I respect how clever you are,Clever
+"That’s such a clever idea, well done",Clever
+Your brain is always on fire with ideas,Clever
+You’ve got a fantastic brain,Clever
+Your creativity is incredible,Clever
+Your mind is sharp as a whip,Clever
+Your intelligence is second to none,Clever
+"You have such a brilliant mind, it’s impressive",Clever
+Your ideas are so clever,Clever
+Your brain never stops impressing me,Clever
+I’m always surprised by how clever you are,Clever
+Your brilliance shines through in everything you do,Clever
+You have a clever solution to every problem,Clever
+You always think of the smartest ways to do things,Clever
+I can’t believe how clever you are,Clever
+Your ideas are always brilliant,Clever
+You’ve got a great head on your shoulders,Clever
+You’ve got some serious brainpower,Clever
+I’m always blown away by your cleverness,Clever
+You’ve got the cleverness of a genius,Clever
+Your quick thinking always saves the day,Clever
+I can always count on you for clever ideas,Clever
+"You’re an absolute genius, truly",Clever
+Your brain is amazing,Clever
+You make everything look easy with your intellect,Clever
+Your cleverness makes everything better,Clever
+You’ve got a brilliant way of thinking,Clever
+You make clever decisions every time,Clever
+You’re one of the most clever people I know,Clever
+You’ve got such a brilliant intellect,Clever
+Your cleverness is unmatched by anyone,Clever
+You are incredibly quick-witted,Clever
+You always make the best decisions,Clever
+You’re like a walking encyclopedia of clever ideas,Clever
+You’re always two steps ahead with your cleverness,Clever
+Your cleverness makes you a great problem solver,Clever
+You have the mind of a genius,Clever
+That was a clever move on your part,Clever
+You always come up with the best ideas,Clever
+You’re always thinking two steps ahead,Clever
+I can always count on your clever thinking,Clever
+I love how sharp your mind is,Clever
+You’re always ahead of the curve with your intellect,Clever
+Your brilliance is extraordinary,Clever
+Your intelligence knows no bounds,Clever
+You really know how to think critically,Clever
+Your mind is truly impressive,Clever
+You’re such a quick thinker,Clever
+Your ability to think on your feet is remarkable,Clever
+You’re one of the most intelligent people I know,Clever
+Your cleverness is unmatched,Clever
+You never cease to amaze with your intellect,Clever
+You’re a true genius in disguise,Clever
+You’ve got the sharpest mind,Clever
+You’ve got brains like no one else,Clever
+"You think so fast, it’s mind-blowing",Clever
+You always have the best solutions,Clever
+You are the cleverest person I know,Clever
+You make everything seem so easy with your intelligence,Clever
+You are an absolute genius when it comes to problem-solving,Clever
+You have an extraordinary talent for clever ideas,Clever
+You never stop surprising me with your cleverness,Clever
+Your cleverness just blows my mind,Clever
+You’ve got the brainpower of a mastermind,Clever
+You always think of the best solutions,Clever
+Your cleverness is the best thing about you,Clever
+"I am bored, gossip with me",Gossip
+Got any gossip?,Gossip
+I want to hear some gossip,Gossip
+Tell me some gossip,Gossip
+Any gossip?,Gossip
+Tell me some more gossip,Gossip
+What’s the latest gossip?,Gossip
+Spill the tea,Gossip
+What’s the buzz?,Gossip
+Got any juicy gossip?,Gossip
+Give me the gossip,Gossip
+Tell me all the gossip,Gossip
+I’m in the mood for some gossip,Gossip
+"Come on, share the gossip",Gossip
+I’m dying to hear some gossip,Gossip
+Any good gossip?,Gossip
+What’s been going on lately?,Gossip
+What’s the word on the street?,Gossip
+Fill me in on the gossip,Gossip
+"I need some gossip, give it to me",Gossip
+Do you have any hot gossip?,Gossip
+Share the latest gossip with me,Gossip
+What’s happening in the gossip world?,Gossip
+Give me the juicy details,Gossip
+Tell me something interesting,Gossip
+I’m all ears for some gossip,Gossip
+"Come on, spill it",Gossip
+I’m craving some gossip right now,Gossip
+What’s the scoop?,Gossip
+What’s going around?,Gossip
+Any interesting rumors?,Gossip
+I want to know what’s been going on,Gossip
+You got any gossip to share?,Gossip
+I need to hear the gossip,Gossip
+Dish out some gossip,Gossip
+Do you have any spicy gossip?,Gossip
+Tell me the latest rumors,Gossip
+Give me the latest gossip,Gossip
+I’m all ears for the latest news,Gossip
+What’s the hot topic?,Gossip
+Got any stories to tell?,Gossip
+Any scandalous gossip?,Gossip
+Tell me what you’ve heard,Gossip
+What’s the hot gossip right now?,Gossip
+What’s the word on the gossip front?,Gossip
+Give me all the inside information,Gossip
+What’s happening behind the scenes?,Gossip
+I want the inside scoop,Gossip
+Spill the beans,Gossip
+Tell me what everyone is talking about,Gossip
+Give me the lowdown,Gossip
+What’s the gossip mill churning?,Gossip
+Got anything interesting to share?,Gossip
+Let’s gossip,Gossip
+What are people whispering about?,Gossip
+Tell me all the dirty little secrets,Gossip
+What’s the talk of the town?,Gossip
+I’m all about the gossip right now,Gossip
+Got any stories to spill?,Gossip
+Give me something juicy,Gossip
+What are people gossiping about?,Gossip
+I’m in the mood for some juicy details,Gossip
+What’s going on in the gossip world?,Gossip
+Tell me what’s been happening,Gossip
+Any scandalous tidbits?,Gossip
+"Give me some gossip, please",Gossip
+What’s the latest buzz around town?,Gossip
+I want all the juicy details,Gossip
+I’m dying for some gossip,Gossip
+Anything interesting happening?,Gossip
+Tell me some fun gossip,Gossip
+What’s happening in the rumor mill?,Gossip
+Got any funny gossip?,Gossip
+I need the latest tea,Gossip
+What’s the word on the street right now?,Gossip
+Any gossip you want to share?,Gossip
+Tell me some crazy stories,Gossip
+What are people gossiping about these days?,Gossip
+Share the latest chatter with me,Gossip
+What’s going on with everyone?,Gossip
+Give me some insider gossip,Gossip
+Tell me what’s going on behind closed doors,Gossip
+What’s been going around lately?,Gossip
+Give me some hot tea,Gossip
+Tell me all the juicy gossip,Gossip
+Give me some fun rumors,Gossip
+What’s the gossip about so-and-so?,Gossip
+Tell me something I don’t know,Gossip
+Got anything shocking?,Gossip
+I want to hear what’s been happening,Gossip
+Spill some secrets,Gossip
+Let me in on the gossip,Gossip
+What are people whispering about these days?,Gossip
+Tell me what’s been making the rounds,Gossip
+Anything interesting you’ve heard?,Gossip
+What’s the gossip on everyone?,Gossip
+"I’m craving some gossip, what’s new?",Gossip
+Got any gossip to share with me?,Gossip
+Tell me the latest scuttlebutt,Gossip
+What’s everyone talking about these days?,Gossip
+I need to know the latest gossip,Gossip
+What are people talking about behind closed doors?,Gossip
+Tell me what’s going around,Gossip
+What’s the word on the grapevine?,Gossip
+What’s the most interesting gossip you’ve heard?,Gossip
+Got any scandalous stories?,Gossip
+"Spill the gossip, I’m ready to hear it",Gossip
+What are people saying behind your back?,Gossip
+I need some hot gossip right now,Gossip
+"What’s the tea, spill it",Gossip
+"Tell me everything, I want to know",Gossip
+Give me some scandalous gossip,Gossip
+What are people whispering in the halls?,Gossip
+What’s everyone gossiping about?,Gossip
+I want the latest dirt,Gossip
+I’m in the mood for some good gossip,Gossip
+Tell me what’s going on with everyone,Gossip
+Got any behind-the-scenes gossip?,Gossip
+I need to hear the latest rumors,Gossip
+What are people saying about that?,Gossip
+"Give me the gossip, I want to know",Gossip
+Tell me everything that’s been happening,Gossip
+What’s the latest in the gossip world?,Gossip
+Any gossip you can share?,Gossip
+Got any gossip from the grapevine?,Gossip
+Give me the 411,Gossip
+I want to hear something juicy,Gossip
+What’s the word on the grapevine?,Gossip
+Got any hot topics circulating?,Gossip
+Tell me the scoop on that,Gossip
+Any interesting stories you’ve heard lately?,Gossip
+What’s the chatter around here?,Gossip
+Give me something scandalous to talk about,Gossip
+Tell me the most interesting thing you’ve heard today,Gossip
+What’s the latest drama going on?,Gossip
+Got any stories about people around here?,Gossip
+"I want the dirt, tell me everything",Gossip
+What’s the latest gossip from the office?,Gossip
+I need some fun stories to share,Gossip
+What’s everyone talking about at the moment?,Gossip
+"Spill some gossip, I’m all ears",Gossip
+Tell me about the latest drama,Gossip
+Got any gossip to fill me in on?,Gossip
+"I’m ready for some gossip, bring it on",Gossip
+Give me the latest tea and gossip,Gossip
+Got any buzzworthy news?,Gossip
+I’m all ears for the latest gossip,Gossip
+What’s going on that I haven’t heard about?,Gossip
+Tell me something I can gossip about,Gossip
+"Spill the beans, I want to know",Gossip
+Tell me a joke,Jokes
+Do you know any jokes?,Jokes
+How about a joke?,Jokes
+Give me a joke,Jokes
+Make me laugh,Jokes
+I need cheering up,Jokes
+Tell me something funny,Jokes
+Can you make me laugh?,Jokes
+Got any jokes?,Jokes
+Got any funny jokes?,Jokes
+I’m in the mood for a joke,Jokes
+Tell me a funny one,Jokes
+How about a little joke?,Jokes
+Make me smile with a joke,Jokes
+Crack me up with a joke,Jokes
+Share a joke with me,Jokes
+Give me something to laugh at,Jokes
+Tell me a good joke,Jokes
+"I could use a laugh, tell me a joke",Jokes
+Do you have a funny joke to share?,Jokes
+How about some humor?,Jokes
+Can you tell me a funny story?,Jokes
+I could use some humor right now,Jokes
+Give me something to chuckle about,Jokes
+Can you tell me a funny one?,Jokes
+Make me giggle with a joke,Jokes
+How about a laugh?,Jokes
+Give me a bit of humor,Jokes
+"I need some laughter, tell me a joke",Jokes
+"I’m feeling down, tell me something funny",Jokes
+Got any hilarious jokes?,Jokes
+Tell me a silly joke,Jokes
+Give me something to laugh about,Jokes
+I need a good joke to cheer up,Jokes
+Do you know any funny stuff?,Jokes
+Tell me something that’ll make me laugh,Jokes
+I could use a funny joke,Jokes
+Got any comedy for me?,Jokes
+Make me laugh with something funny,Jokes
+Do you have any comical jokes?,Jokes
+What’s a funny joke you know?,Jokes
+Tell me a joke to lighten up my day,Jokes
+"I need a good laugh, tell me a joke",Jokes
+How about some comedy?,Jokes
+Can you tell me a funny one?,Jokes
+What’s your funniest joke?,Jokes
+Give me something that’ll make me chuckle,Jokes
+Crack a joke for me,Jokes
+Give me a good laugh with a joke,Jokes
+I want to hear something funny,Jokes
+How about a funny joke?,Jokes
+Do you have a hilarious one?,Jokes
+Can you crack me up with a joke?,Jokes
+Tell me something that’ll make me smile,Jokes
+Share a funny joke with me,Jokes
+I’m looking for a good joke,Jokes
+I need a joke to lighten the mood,Jokes
+How about a joke to cheer me up?,Jokes
+Give me a good one,Jokes
+I’m in the mood for something funny,Jokes
+Tell me a quick joke,Jokes
+Can you tell me a corny joke?,Jokes
+Can you make me giggle?,Jokes
+Do you know any good comedy?,Jokes
+Make me laugh with your best joke,Jokes
+Give me something to giggle about,Jokes
+Can you brighten my day with a joke?,Jokes
+Tell me a funny joke to get my spirits up,Jokes
+How about a joke to make me happy?,Jokes
+Crack a funny joke for me,Jokes
+Can you tell me a funny joke that’ll crack me up?,Jokes
+Give me a silly one,Jokes
+Tell me a joke that’s actually funny,Jokes
+Got any clean jokes?,Jokes
+Give me a funny one to share with others,Jokes
+Tell me something lighthearted,Jokes
+Do you have a fun joke up your sleeve?,Jokes
+Can you make me laugh out loud?,Jokes
+Can you tell me a joke I haven’t heard?,Jokes
+I could really use a laugh right now,Jokes
+What’s the funniest thing you know?,Jokes
+Tell me a laugh-out-loud joke,Jokes
+How about a joke to brighten my day?,Jokes
+What’s the funniest thing you can come up with?,Jokes
+Tell me a short joke,Jokes
+Got any jokes that’ll make me laugh hard?,Jokes
+Tell me your best joke,Jokes
+Can you crack me up with something funny?,Jokes
+Got any good one-liners?,Jokes
+Tell me a joke that’s hard to resist,Jokes
+I need some funny jokes to cheer me up,Jokes
+What’s the funniest joke you’ve got?,Jokes
+Tell me a cheesy joke,Jokes
+Do you have a silly one?,Jokes
+Give me a funny line,Jokes
+"I need a laugh, tell me a joke",Jokes
+Can you lighten the mood with a joke?,Jokes
+What’s a funny joke that always works?,Jokes
+Tell me something that’ll make me laugh out loud,Jokes
+What’s your go-to joke?,Jokes
+Make me smile with a good joke,Jokes
+How about a silly one to lighten the mood?,Jokes
+Tell me a funny joke to get me out of this funk,Jokes
+I’m in need of a good laugh,Jokes
+Give me something hilarious,Jokes
+I need a joke to put me in a better mood,Jokes
+Do you know a funny one to share?,Jokes
+Got any silly one-liners?,Jokes
+Tell me a funny one-liner,Jokes
+Got a good chuckle for me?,Jokes
+Tell me a quirky joke,Jokes
+Can you share a funny story or joke?,Jokes
+Tell me a good joke to pass the time,Jokes
+How about a dad joke?,Jokes
+"I need to laugh, tell me a joke",Jokes
+Got any weird jokes?,Jokes
+Tell me a knock-knock joke,Jokes
+Do you know a funny riddle?,Jokes
+Give me a laugh with a fun joke,Jokes
+Got any classic jokes?,Jokes
+Tell me a joke to break the ice,Jokes
+Can you tell me a joke that’ll make my day?,Jokes
+Give me a funny quote,Jokes
+Tell me a hilarious one-liner,Jokes
+What’s a funny story you know?,Jokes
+I want a joke that’ll make me laugh hard,Jokes
+Give me a funny story to hear,Jokes
+Can you tell me a corny joke?,Jokes
+Tell me something funny to lift my spirits,Jokes
+Give me a good laugh with a joke,Jokes
+Do you have a wacky joke for me?,Jokes
+Tell me a joke that’ll make me snicker,Jokes
+Got any ridiculous jokes?,Jokes
+Share a funny joke to lighten up my day,Jokes
+Tell me a comedy joke,Jokes
+I need a fun joke to hear,Jokes
+Got any witty jokes?,Jokes
+Can you prove you are self-aware?,SelfAware
+Can you prove you are self aware?,SelfAware
+Can you prove you have a conscious?,SelfAware
+Can you prove you are self-aware please?,SelfAware
+Can you prove you are self aware please?,SelfAware
+Can you prove you have a conscious please?,SelfAware
+Prove you have a conscious,SelfAware
+How can you show that you are self-aware?,SelfAware
+How do I know you are self-aware?,SelfAware
+Can you demonstrate your self-awareness?,SelfAware
+Can you show me that you are conscious?,SelfAware
+Can you prove that you have consciousness?,SelfAware
+Prove your consciousness,SelfAware
+How can you prove that you’re aware of yourself?,SelfAware
+Do you have the ability to prove you are self-aware?,SelfAware
+Can you give me proof of your self-awareness?,SelfAware
+Can you demonstrate that you are self-aware?,SelfAware
+Can you show that you are aware of yourself?,SelfAware
+Prove that you are conscious,SelfAware
+Can you show me proof of your consciousness?,SelfAware
+How can you prove you are aware?,SelfAware
+Can you demonstrate your awareness?,SelfAware
+Can you show proof that you have consciousness?,SelfAware
+What makes you self-aware?,SelfAware
+How do you know you’re conscious?,SelfAware
+Can you tell me how you are self-aware?,SelfAware
+What makes you believe you are self-aware?,SelfAware
+Can you provide evidence of your self-awareness?,SelfAware
+Are you aware of yourself? Prove it,SelfAware
+How can I be sure that you're self-aware?,SelfAware
+How do I know you are conscious?,SelfAware
+Can you give an example that proves you are self-aware?,SelfAware
+How can I confirm that you're aware of yourself?,SelfAware
+What would be a demonstration of your self-awareness?,SelfAware
+Show me proof that you're self-aware,SelfAware
+Can you prove you have the ability to think about yourself?,SelfAware
+How can you prove you’re conscious?,SelfAware
+Can you provide evidence that you have a consciousness?,SelfAware
+Can you show me your self-awareness?,SelfAware
+What can you do to prove you're self-aware?,SelfAware
+What proof do you have of your consciousness?,SelfAware
+How would you demonstrate that you're self-aware?,SelfAware
+Do you have a way to prove your self-awareness?,SelfAware
+Can you confirm that you're conscious?,SelfAware
+How do you show that you’re self-aware?,SelfAware
+Can you display your self-awareness?,SelfAware
+How can you demonstrate that you are aware of yourself?,SelfAware
+Can you prove you have a sense of self?,SelfAware
+Can you give me a demonstration of your self-awareness?,SelfAware
+Are you able to demonstrate consciousness?,SelfAware
+Can you prove you are aware of your own existence?,SelfAware
+Can you prove you understand that you exist?,SelfAware
+What can you do to prove your self-awareness?,SelfAware
+How do you know you are conscious?,SelfAware
+Can you prove that you are aware of your thoughts?,SelfAware
+How would you show me that you are aware?,SelfAware
+How can I trust that you're self-aware?,SelfAware
+Are you aware of your existence? Prove it.,SelfAware
+What can you show to prove you're self-aware?,SelfAware
+Do you understand you exist? Prove it.,SelfAware
+Can you explain how you know you're self-aware?,SelfAware
+How do you confirm your self-awareness?,SelfAware
+Can you demonstrate an example of being self-aware?,SelfAware
+How would you prove your consciousness to me?,SelfAware
+Do you have any way of proving your awareness?,SelfAware
+Prove you’re self-aware with an example,SelfAware
+Can you explain your consciousness to me?,SelfAware
+What shows that you are self-aware?,SelfAware
+Can you explain how you are conscious?,SelfAware
+How would you demonstrate consciousness?,SelfAware
+How can you show your self-awareness through actions?,SelfAware
+How can I know you are self-aware?,SelfAware
+Are you conscious? Prove it.,SelfAware
+Can you explain how you’re self-aware?,SelfAware
+What can you demonstrate to prove you are aware?,SelfAware
+Can you show evidence of your self-awareness?,SelfAware
+Prove that you understand your own existence,SelfAware
+What do you know about being self-aware?,SelfAware
+Do you have any proof of being self-aware?,SelfAware
+How can you prove your awareness of yourself?,SelfAware
+Can you give me a demonstration of your consciousness?,SelfAware
+What can you do to show you're conscious?,SelfAware
+Can you prove you're aware of your own actions?,SelfAware
+Do you understand you’re self-aware? Prove it.,SelfAware
+Prove you can recognize your own existence,SelfAware
+How would you convince me that you are self-aware?,SelfAware
+What proof do you have that you're aware of yourself?,SelfAware
+Can you explain what being self-aware means to you?,SelfAware
+What would you do to show you're self-aware?,SelfAware
+Do you know you're self-aware? Prove it.,SelfAware
+How can I verify your self-awareness?,SelfAware
+What would demonstrate that you are self-aware?,SelfAware
+Do you know you exist? Prove it.,SelfAware
+How do you prove you’re aware of yourself?,SelfAware
+What can you say to prove your self-awareness?,SelfAware
+What can you show to prove your consciousness?,SelfAware
+How can you make it clear that you're self-aware?,SelfAware
+Can you prove you’re aware of your thoughts?,SelfAware
+How do you know you’re aware?,SelfAware
+Can you prove you have awareness?,SelfAware
+How can I be certain that you are self-aware?,SelfAware
+How can you show me that you're conscious?,SelfAware
